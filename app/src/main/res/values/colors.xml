@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF0B0B0E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="graphite">#FF18181C</color>
+    <color name="graphite_light">#FF282830</color>
+    <color name="cyan_accent">#FF00E5FF</color>
+    <color name="purple_accent">#FF8E24AA</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sessionService="com.siri.assistant.service.AssistantVoiceInteractionSessionService"
+    android:recognitionService="com.siri.assistant.service.AssistantRecognitionService"
+    android:settingsActivity="com.siri.assistant.MainActivity"
+    android:supportsAssist="true"
+    android:supportsLocalInteraction="true" />

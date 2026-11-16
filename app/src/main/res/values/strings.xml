@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Siri Assistant</string>
+    <string name="wake_word">Hey Siri</string>
+    <string name="service_notification_channel">Siri Voice Assistant</string>
+    <string name="service_notification_title">Siri Assistant Active</string>
+    <string name="service_notification_desc">Listening for \"Hey Siri\" in background</string>
+    <string name="voice_interaction_service_description">Siri-style AI Voice Assistant for Android device control</string>
+</resources>
